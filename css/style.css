@@ -1,4 +1,8 @@
-body {
+/*body {
     background-image: url("../img/krakaka.gif");
     background-repeat: repeat;
+}*/
+video {
+    display: block;
+    margin: 0 auto;
 }
